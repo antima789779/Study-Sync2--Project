@@ -1,9 +1,6 @@
 📘 StudySync
 StudySync is a responsive and visually appealing front-end web project crafted with pure HTML and CSS. It’s designed to help students stay organized, focused, and productive by offering a clean interface for managing study resources
 
-🔗 Live Demo
-👉 View Live Demo
-
 🧰 Built With
 - HTML5 – Semantic markup for structure and accessibility
 - CSS3 – Flexbox, Grid, transitions, and animations for styling
