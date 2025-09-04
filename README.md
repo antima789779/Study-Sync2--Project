@@ -3,7 +3,7 @@ StudySync is a responsive and visually appealing front-end web project crafted w
 
 🔗 Live Demo
 👉 View Live Demo
-Replace the above link with your actual deployed URL (e.g., GitHub Pages, Netlify, Vercel).
+
 🧰 Built With
 - HTML5 – Semantic markup for structure and accessibility
 - CSS3 – Flexbox, Grid, transitions, and animations for styling
@@ -26,7 +26,7 @@ StudySync/
 🚀 Getting Started
 To run the project locally:
 - Clone the repository
-git clone https://github.com/yourusername/studysync.git
+git clone https://github.com/antima789779/Study-Sync2--Project.git
 - Navigate to the project folder
 cd studysync
 - Open index.html in your browser
